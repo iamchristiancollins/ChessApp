@@ -1,5 +1,5 @@
 package com.DumbChess.model;
 
-public class PieceType {
-    
+public enum PieceType {
+    PAWN, KNIGHT, BISHOP, ROOK, QUEEN, KING
 }
